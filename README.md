@@ -2,7 +2,7 @@
 > i like coding ig 
 
 > python 
-```
+```py
 class scooby:
   def who(self):
     discord = "scooby#0001" // termed
