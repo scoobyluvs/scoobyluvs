@@ -1,9 +1,18 @@
 # ahahahahaahahahahahaahahahahahahahahahahahahaah
 > i like coding ig 
 
-> python , rlua , minecraft shi as well
+> python 
+```
+class scooby:
+  def who(self):
+    discord = "scooby#0001" // termed
+    code = "Python"
+    print(f'my discord is {discord} , I know {code}!')
+if __name__ == "__main__":
+  .gg/comped = scooby()
+  .gg/comped.who()
+```
 
-> scooby#0001 
 
 > #8k.HITTA
 
