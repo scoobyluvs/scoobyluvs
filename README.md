@@ -3,7 +3,8 @@ class scooby:
   
   def who(self):
   
-    discord = "scooby#0001" # termed
+    termed_discord = "scooby#0001"
+    new_discord = "scooby#4628"
     code = "Python"
     group = "8k.hittas" 
     discordsrv = ".gg/comped"
