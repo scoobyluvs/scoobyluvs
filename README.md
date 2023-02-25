@@ -3,7 +3,7 @@ class scooby:
   
   def who(self):
   
-    discord = "scooby#2581" # scooby0001 is my larp
+    discord = "scooby#0003" # scooby0001 is my larp
     code = "Python/css"
     group = "w0ck$tars" 
     discordsrv = "is termed"
