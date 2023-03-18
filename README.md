@@ -1,18 +1,23 @@
 ```py
-class scooby:
+
+class Scooby:
+  
+  def __init__(self):
+    
+    self.info = {
+      "Discord" : "scooby#0003", 
+      "Coding" : "Python / Web Dev ( Not much )",
+      "Group" : "w0ck$tars",
+      "Server" : "discord.gg/stub",
+    }
+    
+    self.who()
   
   def who(self):
-  
-    discord = "scooby#0003" # scooby0001 is my larp
-    code = "Python/css"
-    group = "w0ck$tars" 
-    discordsrv = "discord.gg/stub"
-
-    print(f'my discord is {discord} , I know {code}! As well my group is {group}, my discord server aswell is {discordsrv}')
-
+    
+    print(f'my discord is {self.info["Discord"]} , I know {self.info["Coding"]}! As well my group is {self.info["Group"]}, my discord server aswell is {self.info["Server"]}')
 
 if __name__ == "__main__":
-  comped = scooby()
-  comped.who()
+  Scooby()
  
 ```
