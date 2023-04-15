@@ -8,7 +8,7 @@ class Scooby:
       "Discord" : "scooby#0003", 
       "Coding" : "Python / Web Dev ( Not much )",
       "Group" : "w0ck$tars",
-      "Server" : "discord.gg/comped",
+      "Server" : "https://hittas.net/discord",
     }
     
     self.who()
