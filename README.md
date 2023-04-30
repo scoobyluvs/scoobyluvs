@@ -5,7 +5,7 @@ class Scooby:
   def __init__(self):
     
     self.info = {
-      "Discord" : "scooby#8889", 
+      "Discord" : "scooby#0001", 
       "Coding" : "Python / Web Dev ( Not much )",
       "Group" : "w0ck$tars",
       "Server" : "https://hittas.net/discord",
