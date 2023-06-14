@@ -5,7 +5,7 @@ class Scooby:
   def __init__(self):
     
     self.info = {
-      "Discord" : "squirting#0001", 
+      "tele" : "t.me/s3xbands", 
       "Coding" : "Python / Web Dev ( Not much )",
       "Group" : "w0ck$tars",
       "Server" : ".gg/tmi",
@@ -15,7 +15,7 @@ class Scooby:
   
   def who(self):
     
-    print(f'my discord is {self.info["Discord"]} , I know {self.info["Coding"]}! As well my group is {self.info["Group"]}, my discord server aswell is {self.info["Server"]}')
+    print(f'My tele is {self.info["tele"]} , I know {self.info["Coding"]}! As well my group is {self.info["Group"]}, my discord server aswell is {self.info["Server"]}')
 
 if __name__ == "__main__":
   Scooby()
